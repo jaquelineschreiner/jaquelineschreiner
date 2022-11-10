@@ -3,4 +3,4 @@
  - 🎓Colegio estadual victor bussmann
  - ✨ tenho 16 anos
  - 📱 4788491851
- 
+ - https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
